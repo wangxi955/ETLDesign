@@ -36,6 +36,8 @@ deal.py文件中的Datadeal类实现了对爬取数据的处理功能，包括�
 在show.py文件中，使用pyecharts库生成了职位分布的地理图表。
 map_show函数生成了中国各个城市的职位分布地理图表。
 map3D_show函数生成了中国各个城市的职位分布3D地图。
+![Uploading 图片.png…]()
+
 
 ### 作者
 - 作者：wangxi955
